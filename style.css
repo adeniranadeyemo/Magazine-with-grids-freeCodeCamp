@@ -12,8 +12,9 @@ html {
 
 body {
   font-family: "Baskervville", serif;
-  color: linen;
-  background-color: rgb(20, 30, 40);
+  color: rgb(49, 30, 16);
+  background-color: rgb(236, 228, 183);
+  padding-top: 4rem;
 }
 
 h1 {
@@ -30,7 +31,7 @@ h6 {
 
 a {
   text-decoration: none;
-  color: linen;
+  color: rgb(49, 30, 16);
 }
 
 main {
@@ -90,11 +91,12 @@ hr {
 }
 
 .author-name a:hover {
-  background-color: #306203;
+  background-color: #d3ffad;
 }
 
 .publish-date {
-  color: rgba(255, 255, 255, 0.5);
+  /* color: rgba(255, 255, 255, 0.5); */
+  color: rgba(49, 30, 16, 0.8);
 }
 
 .social-icons {
@@ -114,7 +116,7 @@ hr {
 }
 
 .quote {
-  color: #00beef;
+  color: #00a5ce;
   font-size: 2.4rem;
   text-align: center;
   font-family: "Raleway", sans-serif;
@@ -146,7 +148,7 @@ hr {
 
 .list-title,
 .list-subtitle {
-  color: #00beef;
+  color: #00a5ce;
 }
 
 .image-wrapper {
